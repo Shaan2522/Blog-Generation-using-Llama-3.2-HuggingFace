@@ -9,7 +9,7 @@ This project leverages the powerful **LLaMA 3.2 model** via HuggingFace Transfor
 - **Python 3.9+**
 - **Transformers (HuggingFace)**
 - **LLaMA 3.2 model** (from HuggingFace Hub)
-- *(Optional)* Streamlit or Flask for UI
+- **Streamlit** for UI
 
 ---
 
